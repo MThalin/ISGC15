@@ -1,0 +1,16 @@
+<m:settings
+	xmlns:m="http://webscraper.se.leads-format.1.0">
+	<props>
+		<url>http://bizlab.kau.se:8280/leads/v1/currentweek</url>
+		<key>Bearer b3af5583674f4b76aabdf8665eaacc70</key>
+		<jouremailDC>TeamTiger1337@gmail.com</jouremailDC>
+		<jouremailWS>test2@gmail.com</jouremailWS>
+		<dbUser>root</dbUser>
+		<dbPass>root</dbPass>
+		<dbDriverURL>jdbc:mysql://localhost:8889/dolibarr1302</dbDriverURL>
+		<leadsfile>leads.xml</leadsfile>
+		<DCmailUser>TeamTiger1337@gmail.com</DCmailUser>
+		<DCmailPass>TigerTeam1337</DCmailPass>
+		<logFilePath>log.txt</logFilePath>
+	</props>
+</m:settings>
